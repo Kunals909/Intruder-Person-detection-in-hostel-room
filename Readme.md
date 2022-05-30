@@ -147,5 +147,4 @@ Run this code in colab cell to generate ouput parameters
 
 - [Kunal Shaw](kunals19@iiserb.ac.in)
    
--   [Aman Mishra](amanm19@iiserb.ac.in)
 
